@@ -967,7 +967,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: This timer updates every second from when the scene starts
+  m_Text: This timer updates every second from when the scene starts but can be paused
 --- !u!222 &1627282778
 CanvasRenderer:
   m_ObjectHideFlags: 0
